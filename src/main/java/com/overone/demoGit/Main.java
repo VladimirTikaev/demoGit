@@ -6,6 +6,7 @@ public class Main {
         System.out.println("Сегодня наше последнее занятие! Самое время выучить гит!");
         System.out.println("Квыпвомит для васи");
         System.out.println("new messaывпвываппge");
+        System.out.println("fkjgksjdgs;d");
 
     }
 }
